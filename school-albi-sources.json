@@ -1,0 +1,987 @@
+{
+  "generated_at": "2026-09-19",
+  "source": "MIM Open Data 2026/27 e verifica automatica del 19/09/2026",
+  "count": 96,
+  "boards": [
+    {
+      "url": "https://icvallonovi.edu.it/novita/albo_online_portal/",
+      "schools": [
+        {
+          "code": "SAIC8BL004",
+          "name": "I.C. \"VALLO LUCANIA NOVI VELIA\"",
+          "city": "VALLO DELLA LUCANIA"
+        }
+      ]
+    },
+    {
+      "url": "https://nuvola.madisoft.it/bacheca-digitale/bacheca/SAIC85500G/5/IN_PUBBLICAZIONE/0/show",
+      "schools": [
+        {
+          "code": "SAIC85500G",
+          "name": "I.C. \"PARMENIDE\" - ASCEA",
+          "city": "ASCEA"
+        }
+      ]
+    },
+    {
+      "url": "https://web.spaggiari.eu/sdg2/AlboOnline/SAII0025",
+      "schools": [
+        {
+          "code": "SAIS03600A",
+          "name": "I.O.C. \"PARMENIDE\" - ROCCADASPIDE",
+          "city": "ROCCADASPIDE"
+        }
+      ]
+    },
+    {
+      "url": "https://www.autonomia82.edu.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAIC836006",
+          "name": "IC AUTONOMIA 82 BARONISSI",
+          "city": "BARONISSI"
+        }
+      ]
+    },
+    {
+      "url": "https://www.circolodidatticobaronissi.edu.it/argomento/albo/",
+      "schools": [
+        {
+          "code": "SAEE01400B",
+          "name": "D.D. BARONISSI",
+          "city": "BARONISSI"
+        }
+      ]
+    },
+    {
+      "url": "https://www.comprensivo2nocera.edu.it/argomento/albo/",
+      "schools": [
+        {
+          "code": "SAIC8BT004",
+          "name": "2' I.C. NOCERA INFERIORE",
+          "city": "NOCERA INFERIORE"
+        }
+      ]
+    },
+    {
+      "url": "https://www.comprensivogliara.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAIC81800L",
+          "name": "I.C. OGLIARA SALERNO",
+          "city": "SALERNO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.convittonazionalesalerno.edu.it/albo-online",
+      "schools": [
+        {
+          "code": "SAVC01000Q",
+          "name": "CONVITTO NAZIONALE \"T.TASSO\" SALERNO",
+          "city": "SALERNO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.defilippisgaldi.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAIS058007",
+          "name": "\"DE FILIPPIS - GALDI\" CAVA D.T.",
+          "city": "CAVA DE' TIRRENI"
+        }
+      ]
+    },
+    {
+      "url": "https://www.genovesidavinci.edu.it/argomento/albo/",
+      "schools": [
+        {
+          "code": "SAIS061003",
+          "name": "\"GENOVESI - DA VINCI\" - SALERNO",
+          "city": "SALERNO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.icaltavillasilentina.edu.it/novita/albo-online/",
+      "schools": [
+        {
+          "code": "SAIC83300P",
+          "name": "IC \"GIOVANNI XXIII\" ALTAVILLA S",
+          "city": "ALTAVILLA SILENTINA"
+        }
+      ]
+    },
+    {
+      "url": "https://www.icantonioespositosarno.edu.it/albo-online/",
+      "schools": [
+        {
+          "code": "SAIC8BX00B",
+          "name": "I.C. \"ANTONIO ESPOSITO\" SARNO",
+          "city": "SARNO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.iccalcedoniasantommasosalerno.edu.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAIC8CH00T",
+          "name": "CALCEDONIA-S.TOMMASO D. SALERNO",
+          "city": "SALERNO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.iccapacciocapoluogo.edu.it/servizio/albo-online/",
+      "schools": [
+        {
+          "code": "SAIC8AY00L",
+          "name": "I.C. CAPACCIO CAPOLUOGO",
+          "city": "CAPACCIO PAESTUM"
+        }
+      ]
+    },
+    {
+      "url": "https://www.iccapacciopaestum.edu.it/albo-online/",
+      "schools": [
+        {
+          "code": "SAIC8AZ00C",
+          "name": "I.C. CAPACCIO PAESTUM",
+          "city": "CAPACCIO PAESTUM"
+        }
+      ]
+    },
+    {
+      "url": "https://www.iccastellabate.edu.it/front/1075/Albo",
+      "schools": [
+        {
+          "code": "SAIC8A0002",
+          "name": "IST. COMPR. CASTELLABATE",
+          "city": "CASTELLABATE"
+        }
+      ]
+    },
+    {
+      "url": "https://www.icdantealighierisapri.edu.it/albo-online/",
+      "schools": [
+        {
+          "code": "SAIC880008",
+          "name": "IC S. MARINA POLICASTRO - SAPRI",
+          "city": "SANTA MARINA"
+        }
+      ]
+    },
+    {
+      "url": "https://www.icdeamicisbaccelli.edu.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAIC8BB008",
+          "name": "IC DE AMICIS BACCELLI - SARNO",
+          "city": "SARNO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.icdonboscocava.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAIC8B000L",
+          "name": "I.C. \"DON BOSCO\" CAVA",
+          "city": "CAVA DE' TIRRENI"
+        }
+      ]
+    },
+    {
+      "url": "https://www.icdonmilanilinguiti.edu.it/albo-online/",
+      "schools": [
+        {
+          "code": "SAIC857007",
+          "name": "IC D. MILANI LINGUITI - GIFFONI",
+          "city": "GIFFONI VALLE PIANA"
+        }
+      ]
+    },
+    {
+      "url": "https://www.icfiorentino.edu.it/albo-online",
+      "schools": [
+        {
+          "code": "SAIC8AE005",
+          "name": "I.C. \"FIORENTINO\" BATTIPAGLIA",
+          "city": "BATTIPAGLIA"
+        }
+      ]
+    },
+    {
+      "url": "https://www.icfiscianolancusi.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAIC89200E",
+          "name": "IC \"DE CARO\" FISCIANO - LANCUSI",
+          "city": "FISCIANO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.icgiacintoromanoeboli.edu.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAIC852004",
+          "name": "I.C. \"G. ROMANO\" - EBOLI",
+          "city": "EBOLI"
+        }
+      ]
+    },
+    {
+      "url": "https://www.icgiovannipaolosecondosalerno.edu.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAIC8A6001",
+          "name": "I.C. \"GIOVANNI PAOLO II\" SA",
+          "city": "SALERNO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.iclanzaracastelsangiorgio.edu.it/argomento/albo/",
+      "schools": [
+        {
+          "code": "SAIC84600R",
+          "name": "I.C. LANZARA - CASTEL S.G.",
+          "city": "CASTEL SAN GIORGIO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.icmedagliedoro.edu.it/argomento/albo/",
+      "schools": [
+        {
+          "code": "SAIC8B500Q",
+          "name": "I.C. \"MEDAGLIE D'ORO\" SALERNO",
+          "city": "SALERNO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.icmoscati.edu.it/albo-online/",
+      "schools": [
+        {
+          "code": "SAIC88800V",
+          "name": "IC \"A. MOSCATI\" PONTECAGNANO",
+          "city": "PONTECAGNANO FAIANO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.icnicodemifiscianocalvanico.edu.it/argomento/albo/",
+      "schools": [
+        {
+          "code": "SAIC89000V",
+          "name": "I.C. \"R. NICODEMI\" FISCIANO",
+          "city": "FISCIANO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.icnuceria.edu.it/servizio/https-www-portaleargo-it-albopretorio-online-customercodesc29744albo-pretorio/",
+      "schools": [
+        {
+          "code": "SAIC8CM00E",
+          "name": "IC \"GALVANI - ANGRI TERZO\"",
+          "city": "ANGRI"
+        },
+        {
+          "code": "SAIC8CL00P",
+          "name": "IC OPROMOLLA S. ALFONSO ANGRI I",
+          "city": "ANGRI"
+        },
+        {
+          "code": "SAIC8CN00A",
+          "name": "I.C. \"EBOLI I - MATTEO RIPA\"",
+          "city": "EBOLI"
+        },
+        {
+          "code": "SAIC8CK00V",
+          "name": "I.C. \"NUCERIA\" NOCERA SUP.",
+          "city": "NOCERA SUPERIORE"
+        }
+      ]
+    },
+    {
+      "url": "https://www.icolevanost.edu.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAIC86400A",
+          "name": "I.C. \"L. DA VINCI\" OLEVANO S.T.",
+          "city": "OLEVANO SUL TUSCIANO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.icpicentia.edu.it/argomento/albo/",
+      "schools": [
+        {
+          "code": "SAIC8BK008",
+          "name": "I.C. \"PICENTIA\" PONTECAGNANO",
+          "city": "PONTECAGNANO FAIANO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.icpugliano.edu.it/argomento/albo/",
+      "schools": [
+        {
+          "code": "SAIC86200P",
+          "name": "IST.COMPR.MONTECORVINO PUGLIANO",
+          "city": "MONTECORVINO PUGLIANO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.icritalevimontalcini.edu.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAIC8AB00N",
+          "name": "I.C. \"MONTALCINI\" SALERNO",
+          "city": "SALERNO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.icsanciprianopicentino.edu.it/albo-online/",
+      "schools": [
+        {
+          "code": "SAIC87700C",
+          "name": "IC \"A. GENOVESI\" S. CIPRIANO P",
+          "city": "SAN CIPRIANO PICENTINO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.icsantalfonsopagani.edu.it/albo-online/",
+      "schools": [
+        {
+          "code": "SAIC8A5005",
+          "name": "I.C. \"S. ALFONSO DE L.\" PAGANI",
+          "city": "PAGANI"
+        }
+      ]
+    },
+    {
+      "url": "https://www.icsantaluciacava.edu.it/tipologia-documento/albo-online/",
+      "schools": [
+        {
+          "code": "SAIC8B100C",
+          "name": "I. C. \"SANTA LUCIA\" CAVA",
+          "city": "CAVA DE' TIRRENI"
+        }
+      ]
+    },
+    {
+      "url": "https://www.icstatalesannicola.edu.it/argomento/albo/",
+      "schools": [
+        {
+          "code": "SAIC8B2008",
+          "name": "IC \"S. NICOLA\" PREGIATO - CAVA",
+          "city": "CAVA DE' TIRRENI"
+        }
+      ]
+    },
+    {
+      "url": "https://www.icteodorogaza.edu.it/argomento/albo/",
+      "schools": [
+        {
+          "code": "SAIC815005",
+          "name": "I.C. \"T. GAZA\" S. GIOVANNI A P.",
+          "city": "SAN GIOVANNI A PIRO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ictramonti.edu.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAIC81100T",
+          "name": "IC \"PASCOLI\" TRAMONTI-RAVELLO",
+          "city": "TRAMONTI"
+        }
+      ]
+    },
+    {
+      "url": "https://www.iis-sacco.edu.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAIS02100L",
+          "name": "I.O.C. \"A. SACCO\" - SANT'ARSENIO",
+          "city": "SANT'ARSENIO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.iisancelkeys.edu.it/albo-online/",
+      "schools": [
+        {
+          "code": "SAIS032003",
+          "name": "I.O.C. \"ANCEL KEYS\" - CASTELNUOVO C.",
+          "city": "CASTELNUOVO CILENTO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.iisferraribattipaglia.edu.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAIS029007",
+          "name": "\"E. FERRARI\" - BATTIPAGLIA",
+          "city": "BATTIPAGLIA"
+        }
+      ]
+    },
+    {
+      "url": "https://www.iismatteifortunato.edu.it/albo-online/",
+      "schools": [
+        {
+          "code": "SAIS067002",
+          "name": "\"MATTEI - FORTUNATO\" - EBOLI",
+          "city": "EBOLI"
+        }
+      ]
+    },
+    {
+      "url": "https://www.iispiranesi.edu.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAIS05700B",
+          "name": "\"G.B. PIRANESI\" - CAPACCIO",
+          "city": "CAPACCIO PAESTUM"
+        }
+      ]
+    },
+    {
+      "url": "https://www.iispisacanesapri.edu.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAIS011002",
+          "name": "\"C.PISACANE\" - SAPRI",
+          "city": "SAPRI"
+        }
+      ]
+    },
+    {
+      "url": "https://www.iisvicodevivo.edu.it/argomento/albo/",
+      "schools": [
+        {
+          "code": "SAIS07100N",
+          "name": "\"VICO - DE VIVO\" - AGROPOLI",
+          "city": "AGROPOLI"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ipseoarobertovirtuoso.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SARH010009",
+          "name": "\"R. VIRTUOSO\" - SALERNO",
+          "city": "SALERNO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.isgalizia.edu.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAIS073009",
+          "name": "\"A. GALIZIA\" - NOCERA INFERIORE",
+          "city": "NOCERA INFERIORE"
+        }
+      ]
+    },
+    {
+      "url": "https://www.istitutocomprensivocastelsanlorenzo.edu.it/argomento/albo/",
+      "schools": [
+        {
+          "code": "SAIC830007",
+          "name": "IST.COMPR. CASTEL SAN LORENZO",
+          "city": "CASTEL SAN LORENZO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.istitutocomprensivodimaiori.edu.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAIC8AF001",
+          "name": "I.C. \"R. ROSSELLINI\" MAIORI",
+          "city": "MAIORI"
+        }
+      ]
+    },
+    {
+      "url": "https://www.istitutocomprensivogatto.edu.it/albo-online",
+      "schools": [
+        {
+          "code": "SAIC83800T",
+          "name": "I.C. \"A. GATTO\" BATTIPAGLIA",
+          "city": "BATTIPAGLIA"
+        }
+      ]
+    },
+    {
+      "url": "https://www.istitutocomprensivoroccapiemonte.edu.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAIC8BD00X",
+          "name": "IC \"VASSALLUZZO\" ROCCAPIEMONTE",
+          "city": "ROCCAPIEMONTE"
+        }
+      ]
+    },
+    {
+      "url": "https://www.istitutocomprensivosanvalentinotorio.edu.it/argomento/albo/",
+      "schools": [
+        {
+          "code": "SAIC899009",
+          "name": "IST.COMPR. S. VALENTINO TORIO",
+          "city": "SAN VALENTINO TORIO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.istitutoglorioso.edu.it/pagine/albo-online",
+      "schools": [
+        {
+          "code": "SAIS024004",
+          "name": "\"G.C. GLORIOSO\" MONTECORVINO R.",
+          "city": "MONTECORVINO ROVELLA"
+        }
+      ]
+    },
+    {
+      "url": "https://www.istitutoistruzionesuperioregbvico.edu.it/argomento/albo/",
+      "schools": [
+        {
+          "code": "SAIS07200D",
+          "name": "\"G. B. VICO\" - NOCERA INFERIORE",
+          "city": "NOCERA INFERIORE"
+        }
+      ]
+    },
+    {
+      "url": "https://www.istitutopenna.edu.it/albo-online",
+      "schools": [
+        {
+          "code": "SAIC83900N",
+          "name": "I.C. \"S. PENNA\" BATTIPAGLIA",
+          "city": "BATTIPAGLIA"
+        }
+      ]
+    },
+    {
+      "url": "https://www.istitutosuperiorecuomomilone.edu.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAIS06800T",
+          "name": "\"CUOMO - MILONE\" - NOCERA INFERIORE",
+          "city": "NOCERA INFERIORE"
+        }
+      ]
+    },
+    {
+      "url": "https://www.istitutosuperioredomenicorea.edu.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAIS07700L",
+          "name": "\"DOMENICO REA\" - NOCERA INFERIORE",
+          "city": "NOCERA INFERIORE"
+        },
+        {
+          "code": "SAIS07800C",
+          "name": "GIOVANNI XXIII - S.CATERINA - AMENDOLA",
+          "city": "SALERNO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.itipacinotti.edu.it/argomento/albo/",
+      "schools": [
+        {
+          "code": "SAIS07600R",
+          "name": "\"A. PACINOTTI\" - SCAFATI",
+          "city": "SCAFATI"
+        }
+      ]
+    },
+    {
+      "url": "https://www.liceoalfano1.edu.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAPM020007",
+          "name": "\"ALFANO I\" - SALERNO",
+          "city": "SALERNO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.liceoartisticosabatinimenna.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SASL040008",
+          "name": "\"SABATINI-MENNA\" - SALERNO",
+          "city": "SALERNO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.liceoclassicodesanctis.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAPC040008",
+          "name": "\"F. DE SANCTIS\" - SALERNO",
+          "city": "SALERNO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.liceodaprocida.edu.it/albo-online/",
+      "schools": [
+        {
+          "code": "SAPS020006",
+          "name": "\"G. DA PROCIDA\" - SALERNO",
+          "city": "SALERNO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.liceoemedi.edu.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAPS120003",
+          "name": "\"E. MEDI\" - BATTIPAGLIA",
+          "city": "BATTIPAGLIA"
+        }
+      ]
+    },
+    {
+      "url": "https://www.liceogallotta.edu.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAPS01000G",
+          "name": "\"A.GALLOTTA\" - EBOLI",
+          "city": "EBOLI"
+        }
+      ]
+    },
+    {
+      "url": "https://www.liceogenoino.edu.it/argomento/albo/",
+      "schools": [
+        {
+          "code": "SAPS09000C",
+          "name": "\"GENOINO\" - CAVA D.T.",
+          "city": "CAVA DE' TIRRENI"
+        }
+      ]
+    },
+    {
+      "url": "https://www.liceolamura.edu.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAPS170004",
+          "name": "\"DON C. LA MURA\" - ANGRI",
+          "city": "ANGRI"
+        }
+      ]
+    },
+    {
+      "url": "https://www.liceosarno.edu.it/argomento/albo/",
+      "schools": [
+        {
+          "code": "SAPC10000P",
+          "name": "\"T.L.CARO\" - SARNO",
+          "city": "SARNO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.liceosensale.edu.it/argomento/albo/",
+      "schools": [
+        {
+          "code": "SAPS04000B",
+          "name": "\"N.SENSALE\" - NOCERA INFERIORE",
+          "city": "NOCERA INFERIORE"
+        }
+      ]
+    },
+    {
+      "url": "https://www.liceoseverisalerno.edu.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAPS06000L",
+          "name": "\"F. SEVERI\" - SALERNO",
+          "city": "SALERNO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.liceotassosalerno.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAPC12000X",
+          "name": "\"T.TASSO\" - SALERNO",
+          "city": "SALERNO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.omnicomprensivopolla.edu.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAIC872009",
+          "name": "I.O.C. POLLA",
+          "city": "POLLA"
+        }
+      ]
+    },
+    {
+      "url": "https://www.portaleargo.it:443/albopretorio/admin/?codcli=SC25991",
+      "schools": [
+        {
+          "code": "SAIC89300A",
+          "name": "I.C. \"ALFANO - QUASIMODO\" SA",
+          "city": "SALERNO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.portaleargo.it/albopretorio/online/#/?customerCode=SC13579",
+      "schools": [
+        {
+          "code": "SAIC887003",
+          "name": "IST.COMPR. ALBANELLA SNC",
+          "city": "ALBANELLA"
+        }
+      ]
+    },
+    {
+      "url": "https://www.portaleargo.it/albopretorio/online/#/?customerCode=SC25794",
+      "schools": [
+        {
+          "code": "SAIC866002",
+          "name": "IC DA VINCI-VISCONTI OMIGNANO",
+          "city": "OMIGNANO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.portaleargo.it/albopretorio/online/#/?customerCode=SC27337",
+      "schools": [
+        {
+          "code": "SAIC8AD009",
+          "name": "I.C. \"G. MARCONI\" BATTIPAGLIA",
+          "city": "BATTIPAGLIA"
+        }
+      ]
+    },
+    {
+      "url": "https://www.portaleargo.it/albopretorio/online/#/?customerCode=SC28181",
+      "schools": [
+        {
+          "code": "SAIC8BM00X",
+          "name": "I.C. \"SERRE - CASTELCIVITA\"",
+          "city": "SERRE"
+        }
+      ]
+    },
+    {
+      "url": "https://www.portaleargo.it/albopretorio/online/#/?customerCode=SC28465",
+      "schools": [
+        {
+          "code": "SAIC8BN00Q",
+          "name": "I.C. \"D. E. SMALDONE\" ANGRI",
+          "city": "ANGRI"
+        }
+      ]
+    },
+    {
+      "url": "https://www.portaleargo.it/albopretorio/online/#/?customerCode=SC28495",
+      "schools": [
+        {
+          "code": "SAIC8BR003",
+          "name": "5' I.C. NOCERA INFERIORE",
+          "city": "NOCERA INFERIORE"
+        }
+      ]
+    },
+    {
+      "url": "https://www.portaleargo.it/albopretorio/online/#/?customerCode=SC28614",
+      "schools": [
+        {
+          "code": "SAIC8BW00G",
+          "name": "I.C. \"AMENDOLA\" SARNO",
+          "city": "SARNO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.portaleargo.it/albopretorio/online/#/?customerCode=SC28841",
+      "schools": [
+        {
+          "code": "SAIC8A4009",
+          "name": "IC AGROPOLI S.MARCO",
+          "city": "AGROPOLI"
+        }
+      ]
+    },
+    {
+      "url": "https://www.portaleargo.it/albopretorio/online/#/?customerCode=SC29098",
+      "schools": [
+        {
+          "code": "SAIC8B400X",
+          "name": "I.C. \"TASSO\" SALERNO",
+          "city": "SALERNO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.portaleargo.it/albopretorio/online/#/?customerCode=sg16256",
+      "schools": [
+        {
+          "code": "SAIS00100B",
+          "name": "\"PUBLIO VIRGILIO MARONE\" - MERCATO S.S.",
+          "city": "MERCATO SAN SEVERINO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.portaleargo.it/albopretorio/online/#/?customerCode=SG26745",
+      "schools": [
+        {
+          "code": "SAIS03400P",
+          "name": "\"BESTA - GLORIOSI\" - BATTIPAGLIA",
+          "city": "BATTIPAGLIA"
+        }
+      ]
+    },
+    {
+      "url": "https://www.portaleargo.it/albopretorio/online/#/?customerCode=SG27702",
+      "schools": [
+        {
+          "code": "SAIS059003",
+          "name": "\"PERITO - LEVI\" - EBOLI",
+          "city": "EBOLI"
+        }
+      ]
+    },
+    {
+      "url": "https://www.portaleargo.it/albopretorio/online/#/?customerCode=SG27804",
+      "schools": [
+        {
+          "code": "SAIS066006",
+          "name": "\"DELLA CORTE - VANVITELLI\" - CAVA D.T.",
+          "city": "CAVA DE' TIRRENI"
+        }
+      ]
+    },
+    {
+      "url": "https://www.portaleargo.it/albopretorio/online/#/?customerCode=SS16258",
+      "schools": [
+        {
+          "code": "SAPM050003",
+          "name": "\"REGINA MARGHERITA\" - SALERNO",
+          "city": "SALERNO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.portaleargo.it/albopretorio/online/#/?customerCode=SS16861",
+      "schools": [
+        {
+          "code": "SAPS11000C",
+          "name": "\"A.GATTO\" - AGROPOLI",
+          "city": "AGROPOLI"
+        }
+      ]
+    },
+    {
+      "url": "https://www.portaleargo.it/albopretorio/online/#/?customerCode=SS16876",
+      "schools": [
+        {
+          "code": "SAPS15000V",
+          "name": "\"R. CACCIOPPOLI\" - SCAFATI",
+          "city": "SCAFATI"
+        }
+      ]
+    },
+    {
+      "url": "https://www.primocircolopagani.edu.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAEE102002",
+          "name": "PAGANI I",
+          "city": "PAGANI"
+        }
+      ]
+    },
+    {
+      "url": "https://www.primoicnocerainferiore.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAIC8BS008",
+          "name": "1 IC A. F. SOLIMENA - NOCERA I.",
+          "city": "NOCERA INFERIORE"
+        }
+      ]
+    },
+    {
+      "url": "https://www.profagrisalerno.edu.it/argomento/albo/",
+      "schools": [
+        {
+          "code": "SARA010005",
+          "name": "PROFAGRI SALERNO",
+          "city": "SALERNO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.quartoicilariaalpinocerainferiore.edu.it/argomento/albo/",
+      "schools": [
+        {
+          "code": "SAIC8BV00Q",
+          "name": "4' I.C. \"ILARIA ALPI\" NOCERA I.",
+          "city": "NOCERA INFERIORE"
+        }
+      ]
+    },
+    {
+      "url": "https://www.schoolsoft.it/documenti.aspx?dde=UQ8%2fLoO9Vlc6A8p%2b1hKz%2fA%3d%3d",
+      "schools": [
+        {
+          "code": "SAIC8BE00Q",
+          "name": "IC S. GREGORIO M. - BUCCINO",
+          "city": "SAN GREGORIO MAGNO"
+        }
+      ]
+    },
+    {
+      "url": "https://www.terzocircoloscafati.edu.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAEE16300D",
+          "name": "SCAFATI III ROSA PISACANE",
+          "city": "SCAFATI"
+        }
+      ]
+    },
+    {
+      "url": "https://www.terzocomprensivonocera.edu.it/albo-sindacale/",
+      "schools": [
+        {
+          "code": "SAIC8BU00X",
+          "name": "3' I.C. MASSIMO LI PIRA",
+          "city": "NOCERA INFERIORE"
+        }
+      ]
+    }
+  ]
+}
