@@ -1,0 +1,10 @@
+{
+  "name": "uat-salerno-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "nodemailer": "^7.0.0",
+    "playwright": "^1.55.0"
+  }
+}
